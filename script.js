@@ -21,18 +21,8 @@ const spinValues = [
 const size = [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10];
 
 var spinColors = [
-  "#E74C3C",
-  "#7D3C98",
-  "#2E86C1",
-  "#138D75",
-  "#F1C40F",
-  "#D35400",
-  "#138D75",
-  "#F1C40F",
-  "#b163da",
-  "#E74C3C",
-  "#7D3C98",
-  "#138D75",
+  "#400135",
+  "#F2A81D",
 ];
 
 let spinChart = new Chart(spinWheel, {
